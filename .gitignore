@@ -1,0 +1,19 @@
+# Environment & Secrets
+.env
+.env.local
+
+# Persistent Data & PDFs
+data/
+*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node / Next.js / Vue
+node_modules/
+.next/
+dist/
+.DS_Store
